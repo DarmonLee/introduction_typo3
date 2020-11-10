@@ -13,3 +13,6 @@ Fonctionnement :
 - git clone dans l'invite de commande de la machine virtuelle
 - commande ddev start pour lancer typo3
 
+Problèmes rencontré lors de mon test :
+- penser à activer la virtualisation dans le BIOS 
+
