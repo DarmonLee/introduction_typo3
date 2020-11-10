@@ -1,5 +1,6 @@
 # introduction_typo3
-Test typo 3 package introduction via DDEV WLS2
+Test Lee-mickael DARMON sur typo 3 package introduction 
+via DDEV WLS2
 
 Pré-requis : 
 - DDEV (docker desktop)
