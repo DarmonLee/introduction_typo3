@@ -2,8 +2,8 @@
 Test typo 3 package introduction via DDEV WLS2
 
 Pré-requis : 
--DDEV (docker desktop)
--WSL2 (ou hyper-v)
+- DDEV (docker desktop)
+- WSL2 (ou hyper-v)
 
 Fonctionnement : 
 - installation DDEV https://ddev.readthedocs.io/en/stable/
